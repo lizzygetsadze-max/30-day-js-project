@@ -6,16 +6,16 @@
 }
 
 body {
-    background-color: #222;
+    background-color: rgb(116, 207, 219);
 }
 
 .card {
-    width: 90%;
-    max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    width:100%;
+    max-width: 400px;
+    background: linear-gradient(135deg, #00b6fe, #4b33e7);
     color: #fff;
     margin: 100px auto 100px;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 40px 35px;
     text-align: center  ;
 }
